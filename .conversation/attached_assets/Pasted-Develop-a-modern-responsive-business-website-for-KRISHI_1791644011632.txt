@@ -1,0 +1,219 @@
+Develop a modern, responsive business website for KRISHI SARTHAK VENTURES LLP using Next.js, React, TypeScript, and Tailwind CSS.
+
+Create the basic website structure and homepage using the following requirements and content. Use a modern, trending design that suits an agricultural products, food exports, and international trade business.
+
+## 1. Company Information
+Company Name: KRISHI SARTHAK VENTURES LLP
+Business: Agricultural Products, Food Products, Import-Export, and Global Trade Services
+Location: Pune, Maharashtra, India
+
+Replace the existing company branding "AAAENSA Global LLP" with "KRISHI SARTHAK VENTURES LLP". Use the new company name throughout the website, including the header, footer, page title, and metadata.
+
+## 2. Website Structure
+Create a homepage containing:
+- Header with company name/logo and navigation
+- Hero section introducing the company
+- Product categories
+- Featured products
+- Company introduction/About Us
+- Business statistics
+- Certifications and registrations
+- Services
+- Growth and strategy
+- News and blogs
+- Global presence
+- Contact section with inquiry form
+- Footer with navigation and contact details
+
+Navigation:
+Home, About Us, Our Products, Our Services, News & Blogs, Careers, Contact Us.
+
+## 3. Hero Section
+Main heading: Global Trade Solutions
+
+Introduce the company as a business focused on agricultural products, food products, international trade, product sourcing, and export-import opportunities.
+
+Include a call-to-action such as "Explore Our Products" and "Contact Us".
+
+## 4. Product Categories
+Display the following categories with suitable product imagery:
+
+1. Agriculture Export — Fresh Fruits & Vegetables
+2. Frozen Export — Frozen Vegetables
+3. Processed Agro Export — Dehydrated Powders
+4. Spice Export — Spices & Herbs
+5. Agro Products — Pulses & Grains
+6. Edible Fruits and Nuts — Dry Fruits & Nuts
+7. Industrial Export — Construction & Road Materials
+
+## 5. Featured Products
+Create product cards for the following products, using these descriptions:
+
+Apple:
+Delicious, nutritious, sweet, and globally demanded fresh fruit.
+
+Dragon Fruit:
+Exotic and high-demand superfruit known for its vibrant color.
+
+Banana:
+High-quality export-grade fresh bananas sourced directly from Indian farms.
+
+Coconut:
+Premium-quality fresh coconuts sourced directly from Indian farms.
+
+Indian Onion:
+Premium-quality export-grade Indian onions known for their strong flavor and long shelf life.
+
+Rice:
+India is a major supplier of premium Basmati and Non-Basmati rice to global markets.
+
+Dates:
+Fresh and dry dates traded through international import and re-export markets.
+
+Gypsum:
+An industrial mineral used in cement production and construction.
+
+## 6. Company Introduction
+Heading: About Us
+
+Use the following content:
+
+"KRISHI SARTHAK VENTURES LLP focuses on agricultural products, international trade, and business opportunities across global markets.
+
+Our business approach emphasizes product sourcing, market intelligence, international buyer-supplier connections, trade standards, and support for export-import processes.
+
+We aim to help businesses explore international markets and establish reliable trade partnerships."
+
+Do not invent company history, achievements, certifications, or operational capabilities.
+
+## 7. Business Statistics
+Display the following statistics as editable website content:
+
+- 10+ Years in Global Trade
+- 25+ Countries Served
+- 1,500+ Global Buyers & Suppliers Network
+- 3,000+ Successful Trade Executions
+
+These figures originate from the existing website. Keep them editable and do not present them as verified achievements of KRISHI SARTHAK VENTURES LLP until confirmed.
+
+## 8. Certifications and Registrations
+Create a section listing the following items:
+
+- IEC — Import Export Code
+- APEDA Registration
+- FSSAI License
+- GSTIN Registration
+- MSME (Udyam) Registration
+- FIEO Membership
+- Udyog Aadhaar Registration
+- Coconut Development Board
+- Spices Board Registration
+- Halal Certification
+- Kosher Certification
+- ISO Certification
+
+Keep this list editable. Do not imply that the new company holds these registrations or certifications unless confirmed.
+
+## 9. Our Services
+Display the following services with brief descriptions:
+
+Shipment Services:
+Support for product sourcing, shipment planning, documentation, container booking, customs coordination, and logistics.
+
+Global Trade Consultancy:
+Guidance on international trade regulations, market opportunities, business strategies, and export-import processes.
+
+Export–Import Training:
+Practical training covering export-import processes and international trade knowledge.
+
+Freight Forwarding & Logistics:
+Logistics coordination for international shipments by sea, land, and air.
+
+Documentation Services:
+Support related to trade documentation, registrations, and compliance processes.
+
+## 10. Growth and Strategy
+Include these four areas:
+
+Product & Market Intelligence:
+Identify product opportunities and analyze international markets.
+
+Trade Standards & Compliance:
+Provide guidance on international trade regulations, certifications, and documentation.
+
+Global Buyer-Supplier Network:
+Support connections between international buyers and suppliers.
+
+End-to-End Trade Execution:
+Present the export-import process from product sourcing to shipment.
+
+## 11. News and Blogs
+Create article cards for:
+
+1. Premium Apples Imported from Iran
+   Successfully imported premium-grade fresh apples from Iran, with the original content referencing HSN Code 08081000.
+
+2. Dragon Fruit Sourced from Vietnam
+   Content describing the sourcing of export-quality dragon fruit from Vietnam and temperature-controlled logistics.
+
+3. Successful Onion Export Shipment
+   Content describing export-grade onions being sorted, packed, documented, and shipped to international markets.
+
+Keep the article content editable. Do not attribute historical transactions to the new company without verification.
+
+## 12. Global Presence
+Display the following countries and regions from the existing website:
+
+- Dubai / UAE
+- Iran
+- Turkey
+- Vietnam
+- Sri Lanka
+- United Kingdom
+- Netherlands
+- Canada
+
+Present them as international markets referenced by the original website, not as verified current operations of the new company.
+
+## 13. Contact Information
+Retain the following existing details as editable placeholders until they are verified for the new company:
+
+Phone:
++91 8277543671
++91 8767745049
+
+Email:
+info@aaaensaglobal.com
+consultancy@aaaensaglobal.com
+
+Address:
+Shivkamal Prestige, 79, Samarth Puram, Shivtirth Nagar, Dangat Patil Nagar, Shivane, Pune, Maharashtra 411023.
+
+Create a contact inquiry form with:
+- Full Name
+- Company Name
+- Phone/WhatsApp Number
+- Business Email Address
+- Inquiry Type
+- Product Name/Category
+- Message
+
+Include a submit button. Do not invent a backend API; keep the form ready for future integration.
+
+## 14. Technical Requirements
+- Use Next.js App Router, React, TypeScript, and Tailwind CSS.
+- Create reusable components for the header, hero, product categories, product cards, services, statistics, news, contact section, and footer.
+- Keep content in organized, editable data files where practical.
+- Make the website responsive across desktop, tablet, and mobile.
+- Use suitable agricultural, food, and international trade imagery.
+- Create a new company wordmark or logo treatment; do not use the old company logo as the new identity.
+- Add appropriate page metadata for KRISHI SARTHAK VENTURES LLP.
+- Ensure navigation links and buttons work.
+- Keep the implementation simple and avoid unnecessary features or complex architecture.
+
+## Final Goal
+Build the initial working homepage for KRISHI SARTHAK VENTURES LLP with all the content specified above and a modern, professional design appropriate for its business.
+
+Prioritize the basic structure, content, responsive layout, and reusable components. Do not build an unnecessarily complex application.
+
+Keep historical company information, statistics, certifications, contact details, and business claims editable until verified for KRISHI SARTHAK VENTURES LLP.

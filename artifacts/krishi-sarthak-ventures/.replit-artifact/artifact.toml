@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Krishi Sarthak Ventures"
+description = "A responsive company website for KRISHI SARTHAK VENTURES LLP, presenting agricultural and food products, international trade services, sourcing information, and an inquiry form."
+version = "1.0.0"
+id = "artifacts/krishi-sarthak-ventures"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25128
+
+[services.development]
+run = "pnpm --filter @workspace/krishi-sarthak-ventures run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/krishi-sarthak-ventures", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/krishi-sarthak-ventures/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25128"
+BASE_PATH = "/"
