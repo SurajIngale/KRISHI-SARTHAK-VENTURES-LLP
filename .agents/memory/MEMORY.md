@@ -1,1 +1,0 @@
-- [Legacy company content](legacy-company-content.md) — treat imported business details as editable and unverified until KRISHI SARTHAK confirms them.
